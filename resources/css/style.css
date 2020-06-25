@@ -1,0 +1,21 @@
+.topnav {
+    overflow: hidden;
+}
+
+.topnav a {
+    float: right;
+    color: #333333;
+    text-align: center;
+    padding: auto 16px;
+}
+
+header img {
+    display: inline-block;
+    float: left;
+}
+
+.colmar,
+.academy {
+    display: inline-block;
+    float: left;
+}
