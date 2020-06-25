@@ -1,21 +1,67 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Header */
+
 .topnav {
     overflow: hidden;
+    height: 64px;
 }
 
 .topnav a {
     float: right;
     color: #333333;
     text-align: center;
-    padding: auto 16px;
+    margin: 16px 8px;
+    font-size: 24px;
+    text-decoration: none;
 }
 
 header img {
     display: inline-block;
     float: left;
+    height: 32px;
+    width: auto;
+    padding-top: 16px;
+    padding-left: 24px;
 }
 
-.colmar,
+.colmar {
+    display: inline-block;
+    float: left;
+    color: #333333;
+    font-size: 24px;
+    text-transform: uppercase;
+    align-items: center;
+}
+
 .academy {
     display: inline-block;
     float: left;
+    color: #708090;
+    font-size: 24px;
+    text-transform: uppercase;
+    align-items: center;
 }
+
+/* First Section */
+
+.first {
+    display: inline;
+}
+
+/* Second Section */
+
+
+
+/* Third Section */
+
+
+
+/* Fourth Section */
+
+
+
+/* Footer */
+
